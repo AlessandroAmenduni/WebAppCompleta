@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+ <a class="btn btn-primary"
+    asp-page="products/insert">Add</a>
+
+@foreach (var item in @Model.List)
+{
+    <h1>@item.Name</h1>
+    <p>@item.Id</p>
+    <p>@item.Price</p>
+
+
+    <a class="btn btn-primary"
+    asp-page="products/edit"
+    asp-route-productId= "@item.Id">Edit</a> //prodctId deve sempre essere uguale come prima 
+
+     <a class="btn btn-primary"
+    asp-page="products/delete"
+    asp-route-productId= "@item.Id">Delete</a>
+   
+    <hr /> //fa la linea
+}

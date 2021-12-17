@@ -1,0 +1,52 @@
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.staticwebassets.runtime.json
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.exe
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.deps.json
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.runtimeconfig.json
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.dll
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ref\ITS.AmenduniA.SampleWebApp.dll
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.pdb
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.AssemblyInfo.cs
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\scopedcss\bundle\ITS.AmenduniA.SampleWebApp.styles.css
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\scopedcss\projectbundle\ITS.AmenduniA.SampleWebApp.bundle.scp.css
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.dll
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ref\ITS.AmenduniA.SampleWebApp.dll
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.pdb
+C:\Users\user\Desktop\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.genruntimeconfig.cache
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\appsettings.json
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.staticwebassets.runtime.json
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.exe
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.deps.json
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.runtimeconfig.json
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.dll
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ref\ITS.AmenduniA.SampleWebApp.dll
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\bin\Debug\net6.0\ITS.AmenduniA.SampleWebApp.pdb
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.csproj.AssemblyReference.cache
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.AssemblyInfoInputs.cache
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.AssemblyInfo.cs
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.csproj.CoreCompileInputs.cache
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.RazorAssemblyInfo.cache
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.RazorAssemblyInfo.cs
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\scopedcss\bundle\ITS.AmenduniA.SampleWebApp.styles.css
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\scopedcss\projectbundle\ITS.AmenduniA.SampleWebApp.bundle.scp.css
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.dll
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ref\ITS.AmenduniA.SampleWebApp.dll
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.pdb
+D:\ITS KENNEDY\ESEMPIO WEBAPP COMPLETA\ITS.AmenduniA.SampleWebApp\ITS.AmenduniA.SampleWebApp\obj\Debug\net6.0\ITS.AmenduniA.SampleWebApp.genruntimeconfig.cache
